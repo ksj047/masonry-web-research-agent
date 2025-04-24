@@ -1,9 +1,8 @@
 langgraph
-langchain-google-genai
+langchain-google-genai # Often a dependency for google-generativeai integration
 google-generativeai
 python-dotenv
-duckduckgo_search
-beautifulsoup4
-requests
-pytest
-black 
+# pytest
+# black
+tavily-python # <-- Make sure this is here
+gradio # <-- Make sure this is here
