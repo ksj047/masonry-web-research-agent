@@ -13,6 +13,7 @@ This project implements a Web Research Agent using Python, LangGraph, Google's G
 -   **Configurable Iterations:** Allows setting a maximum number of research loops (search -> evaluate).
 
 ## Architecture Overview (Tavily Flow)
+![Masonry - AI Web Research Agent - visual selection](https://github.com/user-attachments/assets/959bbd17-590b-4e2b-876f-5d4f8485d045)
 
 The agent is built using **LangGraph**, a library for building stateful, multi-actor applications with LLMs. The core logic follows a cyclical graph structure optimized for Tavily:
 
