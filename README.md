@@ -1,4 +1,4 @@
-# Masonry - AI Web Research Agent
+# AI Web Research Agent
 
 This project implements a Web Research Agent using Python, LangGraph, Google's Gemini LLM, and the Tavily Search API. The agent autonomously searches the web using Tavily, analyzes the results, and synthesizes the findings into a comprehensive report based on a user's query.
 
